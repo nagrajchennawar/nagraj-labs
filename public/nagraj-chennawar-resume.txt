@@ -1,0 +1,53 @@
+Nagraj Chennawar
+ReactJS Developer
+
+PROFILE
+ReactJS Developer with 4+ years of frontend development experience.
+
+EXPERIENCE
+Software Engineer — iProgrammer Solutions Pvt. Ltd. | Jan 2024–Present
+Software Engineer — Cybage Software Pvt. Ltd. | Jan 2022–Dec 2023
+
+PROJECT EXPERIENCE
+
+Deep Marine Mind — Frontend Developer
+Technologies: ReactJS, Next.js, TypeScript, JavaScript, Redux Saga, Redux Thunk,
+Redux Toolkit, RTK Query, MongoDB, Node.js, AWS, microservices, Docker, Kubernetes.
+Contributions: Responsive UI, RTK Query/API integration, RESTful microservices,
+Kubernetes load balancing, auto-scaling and high availability, AWS EC2, S3 and CloudFront.
+
+Puravankara — Frontend Developer
+Technologies: ReactJS, Redux, HTML5, CSS3, JavaScript, TypeScript, MUI, Minimal,
+Redux Toolkit, Node.js.
+Contributions: Responsive UI, Redux state management, MUI and Minimal component
+libraries, reusable and modular components, ES6 and arrow functions, TypeScript.
+
+Ask U-tech / UltraTech — ReactJS Developer
+Technologies: ReactJS, Next.js, Redux, JavaScript, TypeScript, Node.js, HTML5, CSS3, Tailwind.
+Contributions: Customer engagement platform for user queries and consultation booking;
+TypeScript and Next.js for performance and SEO; reusable UI components.
+
+Ebrochure / U-tech — ReactJS Developer
+Technologies: ReactJS, Redux, MySQL, JavaScript, TypeScript, HTML5, CSS3, Redux Toolkit.
+Contributions: Dynamic responsive web application for product/application showcase;
+reusable UI components, API integration, performance optimization, admin panel for
+brochure content, user data and system settings.
+
+Space Captain / ioffice by Eptura — Frontend Developer
+Technologies: ReactJS, AngularJS, Java, JavaScript, TypeScript, Bootstrap, HTML, CSS,
+Azure, Docker, microservices, Azure Storage, Azure DevOps.
+Contributions: Frontend development, reusable components, REST API integration,
+cross-functional collaboration, requirements gathering, development, testing and
+delivery; Azure Storage and Azure DevOps CI/CD pipelines.
+
+EDUCATION
+BE in Computer Science | Completed in 2020
+
+SKILLS
+Frontend: ReactJS, Next.js, JavaScript, TypeScript, AngularJS
+State Management: Redux, Redux Toolkit, RTK Query, Context API
+UI: HTML5, CSS3, Tailwind CSS, Bootstrap, MUI, Ant Design, Minimal CSS
+Backend/API: Node.js, REST APIs
+Cloud/DevOps: AWS, Azure, Docker, Kubernetes
+Testing/Tools: Jest, React Testing Library, Git, GitHub, Bitbucket, Postman, Swagger,
+ESLint, SonarQube, Prettier, Husky
